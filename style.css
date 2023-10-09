@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: Arial, sans-serif;
-    /*background-image: url("images/4.JPG");*/
+    background-image: url("images/4.JPG");
     background-image: linear-gradient(to right, #eda3b5, #fe698e);
     height: 100vh;
     width: 100%;
