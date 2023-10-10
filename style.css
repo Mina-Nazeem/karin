@@ -25,7 +25,7 @@ section{
     position: absolute;
     top: 0;
     left: 0;
-    width: 95%;
+    width: 90%;
     height: 100%;
     overflow: hidden;
     z-index: -1;
@@ -254,7 +254,9 @@ background-color: #131418;
     background-color: #cecece;
     padding: 5px 0;
     text-align: center;
-    margin-top: -39px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     z-index: 3;
 }
 .footer .container p{
