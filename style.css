@@ -249,3 +249,13 @@ background-color: #131418;
     width: 220px;
     height: 150px;
 }
+
+.footer {
+    background-color: #cecece;
+    padding: 5px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer .container p{
+    font-size: 12px;
+}
