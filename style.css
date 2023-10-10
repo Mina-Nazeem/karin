@@ -28,7 +28,7 @@ section{
     width: 90%;
     height: 100%;
     overflow: hidden;
-    
+    z-index: -1;
 }
 
 .circles li {
@@ -204,7 +204,7 @@ section{
 
 .body button:hover {
     background-image: linear-gradient(to right, #eda3b5, #fe698e);
-    background-image: linear-gradient(to right, #484848, #767676);
+    background-image: linear-gradient(to right, #767676, #484848);
     /*transform: scale(1.05);*/
     border-radius: 0 30px 0;
 }
